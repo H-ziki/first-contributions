@@ -1,6 +1,6 @@
 # Contributors
 
-Hamza
+  Hamza
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
